@@ -1,6 +1,7 @@
 {
   "name": "PlayToShine Quiz",
-  "short_name": "PlayToShine",
+  "short_name": "start_url": "https://PracticePro1.github.io/playtoshine/?source=pwa"
+,
   "description": "Fun educational games for kids",
   "start_url": "/playtoshine/",
   "display": "standalone",
