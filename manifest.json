@@ -1,9 +1,8 @@
 {
   "name": "PlayToShine Quiz",
-  "short_name": "start_url": "https://PracticePro1.github.io/playtoshine/?source=pwa"
-,
+  "short_name": "PlayToShine",
   "description": "Fun educational games for kids",
-  "start_url": "/playtoshine/",
+  "start_url": "https://PracticePro1.github.io/playtoshine/?source=pwa",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#d50000",
@@ -15,7 +14,7 @@
       "type": "image/png"
     },
     {
-      "src": "icon-512.png", 
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
